@@ -5,7 +5,7 @@ A router table about all content of repository.
 ### [learning](https://github.com/vhxb/Learning)
 - [Proxy](https://github.com/vhxb/Learning/tree/main/Proxy)
 - [TradeMarket](https://github.com/vhxb/Learning/tree/main/TradeMarket)
-- [bookx](https://github.com/vhxb/Learning/tree/main/books)
+- [books](https://github.com/vhxb/Learning/tree/main/books)
 - [学习方法](https://github.com/vhxb/Learning/tree/main/%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95)
 
 
